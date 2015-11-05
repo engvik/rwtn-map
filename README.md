@@ -3,6 +3,21 @@ Inspired by the great [Arriving in Berlin](http://arriving-in-berlin.de/) map, [
 
 And why not just open source it, so others can make use of it as well?
 
+## Contents
+
+* [Install, build, and run](https://github.com/engvik/rwtn-map#install-build-and-run)
+* [Configuration](https://github.com/engvik/rwtn-map#configuration)
+    * [config/languages.json](https://github.com/engvik/rwtn-map#configlanguagesjson)
+        * [Example](https://github.com/engvik/rwtn-map#example)
+        * [Values](https://github.com/engvik/rwtn-map#values)
+    * [config/map.json](https://github.com/engvik/rwtn-map#configmapjson)
+        * [Example](https://github.com/engvik/rwtn-map#example-1)
+        * [Values](https://github.com/engvik/rwtn-map#values-1)
+    * [locale/IETF-code.json](https://github.com/engvik/rwtn-map#ietf-codejson)
+        * [Example](https://github.com/engvik/rwtn-map#example-2)
+        * [Creating a translation for a marker type](https://github.com/engvik/rwtn-map#creating-a-translation-for-a-marker-type)
+* [Environment variables](https://github.com/engvik/rwtn-map#environment-variables)
+
 ## Install, build and run
 
     git clone git@github.com:engvik/rwtn-map.git
@@ -76,7 +91,7 @@ The first object in the array, has to be one defining the map view.
 * `localeKey` - The key for the translation in the `locales/`-folder. Will be rendered when you click the marker.
 * `coordinates` - The coordinates to place the marker.
 
-### locales/<IETF-code>.json
+### locales/IETF-code.json
 
 This is where we store the translations files. The project comes with some predefined values for the static content on the site.
 
