@@ -1,0 +1,30 @@
+header {
+  height: 100px;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+nav,
+.map-menu,
+.language-options {
+  ul {
+    list-style: none;
+    font-size: 20px;
+    padding-left: 0px;
+
+    a,
+    li {
+      text-transform: uppercase;
+      color: #337ab7;
+      cursor: pointer;
+    }
+
+    li:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.leaflet-container {
+  height: 800px;
+}

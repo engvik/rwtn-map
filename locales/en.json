@@ -1,0 +1,18 @@
+{
+  "home-title": "Welcome to ______!",
+  "home-content-language-select": "View map in:",
+
+  "map-title": "Map",
+  "map-filter-type": "Filter",
+
+  "about-title": "About",
+  "about-content": "Inspired by the great <a href='http://arriving-in-berlin.de/'>Arriving in Berlin</a> map, <a href='http://rwtn.no/'>Refugees Welcome to Norway</a> wanted to create a similar map over Oslo.",
+  "about-contributing-code": "And why not just open source it, so others can make use of it as well? The project is available at <a href='http://github.com/engvik/rwtn-map'>GitHub</a>. Please feel free to submit issues and pull requests!",
+
+  "menu-languages": "Languages",
+  "menu-map": "Map",
+  "menu-about": "About",
+
+  "map-menu-search-title": "Search",
+  "map-menu-filter-all": "All"
+}
