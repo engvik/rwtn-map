@@ -12,7 +12,7 @@
     "type": "transport",
     "icon": "",
     "localeKey": "transport-central-bus-terminal",
-    "coordinates": [59.9119162, 10.7557029]
+    "coordinates": [59.91161, 10.75932]
   },
   {
     "type": "arrival",
