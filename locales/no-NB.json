@@ -20,17 +20,17 @@
   "map-menu-filter-emergency-room": "Legevakt",
   "map-menu-filter-police": "Politi",
 
-  "transport-central-train-station": "Oslo Sentralstasjon<br />Hovedtogstasjon.",
-  "transport-central-bus-terminal": "Oslo bussterminal<br />Hovedbussterminal.",
+  "transport-central-train-station": "<b>Oslo Sentralstasjon</b><p>Hovedtogstasjon.</p><p>Adresse: Jernbanetorget 1</p><p><a href='http://www.oslo-s.no/'>Webside</a></p>",
+  "transport-central-bus-terminal": "<b>Oslo bussterminal</b><p>Hovedbusstasjon</p><p>Adresse: Schweigaards gate 10</p><p><a href='http://www.ruter.no/'>Webside</a></p>",
 
-  "arrival-pu": "Politiets utlendingsenhet<br />Her må du registrere deg når du først ankommer Oslo.<br /><a href='https://www.politi.no/kontakt_oss/kontakt_politiets_utlendingsenhet/'>PUs nettisde</a>",
+  "arrival-pu": "<b>Politiets utlendingsenhet (PU)</b><p>Her må du registrere deg når du først ankommer Oslo.</p><p>Adresse: Økernveien 11-13</p><p><a href='https://www.politi.no/kontakt_oss/kontakt_politiets_utlendingsenhet/'>Webside</a></p>",
 
-  "emergency-room-storgata": "Legevakt i Oslo sentrum.<br />Døgnåpent.<br /><a href='https://www.oslo.kommune.no/dognapne-vakttjenester/legevakt/legevakt-storgata/'>Nettside</a>.",
-  "emergency-room-aker": "Legevakt.<br />Åpent 16:00-01:30 mandag til fredag. Helg: 10:00-01:30.<br /><a href='<a href='https://www.oslo.kommune.no/dognapne-vakttjenester/legevakt/legevakt-storgata/'>Nettside</a>.",
+  "emergency-room-storgata": "<b>Legevakt Storgata 40</b><p>Legevakt i sentrum.</p><p>Døgnåpent.</p><p>Adresse: Storgata 40</p><a href='https://www.oslo.kommune.no/dognapne-vakttjenester/legevakt/legevakt-storgata/'>Webside</a>.</p>",
+  "emergency-room-aker": "<b>Legevakt Aker</b><p>Legevakt.</p>Åpent 16:00-01:30 mandag til fredag. Helg: 10:00-01:30.</p><p>Adresse: Trondheimsveien 235</p><p><a href='<a href='https://www.oslo.kommune.no/dognapne-vakttjenester/legevakt/legevakt-storgata/'>Webside</a>.</p>",
 
-  "police-groenland": "Grønland politistasjon.",
-  "police-sentrum": "Sentrum politistasjon.",
-  "police-majorstua": "Majorstua politistasjon.",
-  "police-manglerud": "Manglerud politistasjon.",
-  "police-stovner": "Stovner politistasjon."
+  "police-groenland": "<b>Grønland politistasjon</b><p>Address: Grønlandsleiret 44</p><p><a href='https://www.politi.no/kontakt_oss/kontakt_ditt_politidistrikt/kontakt_oslo/KontaktInfo_257.xhtml'>Webside</a></p>",
+  "police-sentrum": "<b>Sentrum politistasjon</b><p>Address: Hammersborggata 12</p><p><a href='https://www.politi.no/kontakt_oss/kontakt_ditt_politidistrikt/kontakt_oslo/KontaktInfo_255.xhtml'>Webside</a></p>",
+  "police-majorstua": "<b>Majorstua politistasjon</b><p>Address: Sørkedalsveien 27</p><p><a href='https://www.politi.no/kontakt_oss/kontakt_ditt_politidistrikt/kontakt_oslo/KontaktInfo_254.xhtml'>Webside</a></p>",
+  "police-manglerud": "<b>Manglerud politistasjon</b><p>Address: Plogveien 31</p><p><a href='https://www.politi.no/kontakt_oss/kontakt_ditt_politidistrikt/kontakt_oslo/KontaktInfo_252.xhtml'>Webside</a></p>",
+  "police-stovner": "<b>Stovner politistasjon</b><p>Address: Aasta Hansteensvei 10</p><p><a href='https://www.politi.no/kontakt_oss/kontakt_ditt_politidistrikt/kontakt_oslo/KontaktInfo_251.xhtml'>Webside</a></p>"
 }
