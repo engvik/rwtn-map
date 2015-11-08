@@ -31,5 +31,35 @@
     "icon": "",
     "localeKey": "emergency-room-aker",
     "coordinates": [59.93949, 10.79439]
+  },
+  {
+    "type": "police",
+    "icon": "",
+    "localeKey": "police-groenland",
+    "coordinates": [59.91071, 10.77035]
+  },
+  {
+    "type": "police",
+    "icon": "",
+    "localeKey": "police-sentrum",
+    "coordinates": [59.9154023, 10.7506711]
+  },
+  {
+    "type": "police",
+    "icon": "",
+    "localeKey": "police-majorstua",
+    "coordinates": [59.93201, 10.70722]
+  },
+  {
+    "type": "police",
+    "icon": "",
+    "localeKey": "police-manglerud",
+    "coordinates": [59.8965228, 10.8131401]
+  },
+  {
+    "type": "police",
+    "icon": "",
+    "localeKey": "police-stovner",
+    "coordinates": [59.9614739, 10.9219232]
   }
 ]

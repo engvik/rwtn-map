@@ -18,6 +18,7 @@
   "map-menu-filter-transport": "Transportation",
   "map-menu-filter-arrival": "Arrival",
   "map-menu-filter-emergency-room": "Emergency room",
+  "map-menu-filter-police": "Police",
 
   "transport-central-train-station": "Oslo Central Station<br />Central train station.",
   "transport-central-bus-terminal": "Oslo bus terminal <br />Central bus station.",
@@ -25,5 +26,11 @@
   "arrival-pu": "Politiets utlendingsenhet<br />This where you have to register when you first arrive in Oslo.<br /><a href='https://www.politi.no/kontakt_oss/kontakt_politiets_utlendingsenhet/'>PUs website</a>",
 
   "emergency-room-storgata": "Emergency room in the city center.<br />Open 24 hours.<br /><a href='https://www.oslo.kommune.no/dognapne-vakttjenester/legevakt/legevakt-storgata/'>Website</a>.",
-  "emergency-room-aker": "Emergency room.<br />Open 16:00-01:30 monday through friday. Weekends: 10:00-01:30.<br /><a href='<a href='https://www.oslo.kommune.no/dognapne-vakttjenester/legevakt/legevakt-storgata/'>Website</a>."
+  "emergency-room-aker": "Emergency room.<br />Open 16:00-01:30 monday through friday. Weekends: 10:00-01:30.<br /><a href='<a href='https://www.oslo.kommune.no/dognapne-vakttjenester/legevakt/legevakt-storgata/'>Website</a>.",
+
+  "police-groenland": "Grønland police station.",
+  "police-sentrum": "Sentrum police station.",
+  "police-majorstua": "Majorstua police station.",
+  "police-manglerud": "Manglerud police station.",
+  "police-stovner": "Stovner police station."
 }
