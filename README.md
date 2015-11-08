@@ -37,7 +37,7 @@ This is the file for setting up the languages you support. Adding a language her
 ```json
 [
   {
-    "code": "en",
+    "code": "en-US",
     "name": "English"
   },
   {
@@ -98,7 +98,7 @@ This is where we store the translations files. The project comes with some prede
 #### Example
 
 ```json
-// en-US.json or en.json
+// en-US.json
 [
   {
     "map-title": "Map",
@@ -106,7 +106,7 @@ This is where we store the translations files. The project comes with some prede
   }
 ]
 
-// no-NB.json or no.json
+// no-NB.json
 [
   {
     "map-title": "Kart",

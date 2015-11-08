@@ -9,14 +9,14 @@ const re = /[a-z]{2}-[A-Z]{2}/i;
 Router.run(routes, Router.HistoryLocation, (Handler, state) => {
   const path = state.path;
   const lang = path.match(re);
-  let locale = 'en';
+  let locale = 'en-US';
 
   if (lang) {
     locale = lang[0];
   }
 
-  let translations = locales[locale] ? locales[locale] : locales.locale['en']; // eslint-disable-line dot-notation
-  translations = Object.assign(locales['en'], translations); // eslint-disable-line dot-notation
+  let translations = locales[locale] ? locales[locale] : locales.locale['en-US']; // eslint-disable-line dot-notation
+  translations = Object.assign(locales['en-US'], translations); // eslint-disable-line dot-notation
 
   const intlData = {
     locales: [locale],
