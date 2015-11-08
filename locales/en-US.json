@@ -1,5 +1,5 @@
 {
-  "home-title": "Welcome to ______!",
+  "home-title": "Welcome to Oslo!",
   "home-content-language-select": "View map in:",
 
   "map-title": "Map",
@@ -7,12 +7,23 @@
 
   "about-title": "About",
   "about-content": "Inspired by the great <a href='http://arriving-in-berlin.de/'>Arriving in Berlin</a> map, <a href='http://rwtn.no/'>Refugees Welcome to Norway</a> wanted to create a similar map over Oslo.",
-  "about-contributing-code": "And why not just open source it, so others can make use of it as well? The project is available at <a href='http://github.com/engvik/rwtn-map'>GitHub</a>. Please feel free to submit issues and pull requests!",
+  "about-contributing-code": "And why not just open source it, so others can make use of it as well? The project is available at <a href='http://github.com/engvik/rwtn-map'>GitHub</a>.",
 
   "menu-languages": "Languages",
   "menu-map": "Map",
   "menu-about": "About",
 
   "map-menu-search-title": "Search",
-  "map-menu-filter-all": "All"
+  "map-menu-filter-all": "All",
+  "map-menu-filter-transport": "Transportation",
+  "map-menu-filter-arrival": "Arrival",
+  "map-menu-filter-emergency-room": "Emergency room",
+
+  "transport-central-train-station": "Oslo Central Station<br />Central train station.",
+  "transport-central-bus-terminal": "Oslo bus terminal <br />Central bus station.",
+
+  "arrival-pu": "Politiets utlendingsenhet<br />This where you have to register when you first arrive in Oslo.<br /><a href='https://www.politi.no/kontakt_oss/kontakt_politiets_utlendingsenhet/'>PUs website</a>",
+
+  "emergency-room-storgata": "Emergency room in the city center.<br />Open 24 hours.<br /><a href='https://www.oslo.kommune.no/dognapne-vakttjenester/legevakt/legevakt-storgata/'>Website</a>.",
+  "emergency-room-aker": "Emergency room.<br />Open 16:00-01:30 monday through friday. Weekends: 10:00-01:30.<br /><a href='<a href='https://www.oslo.kommune.no/dognapne-vakttjenester/legevakt/legevakt-storgata/'>Website</a>."
 }

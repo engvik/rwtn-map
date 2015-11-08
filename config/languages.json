@@ -2,5 +2,9 @@
   {
     "code": "en-US",
     "name": "English"
+  },
+  {
+    "code": "no-NB",
+    "name": "Norsk"
   }
 ]

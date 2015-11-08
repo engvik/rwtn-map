@@ -1,5 +1,35 @@
 [
   {
     "start": [59.9212802, 10.7598769]
+  },
+  {
+    "type": "transport",
+    "icon": "",
+    "localeKey": "transport-central-train-station",
+    "coordinates": [59.9110906, 10.7512504]
+  },
+  {
+    "type": "transport",
+    "icon": "",
+    "localeKey": "transport-central-bus-terminal",
+    "coordinates": [59.9119162, 10.7557029]
+  },
+  {
+    "type": "arrival",
+    "icon": "",
+    "localeKey": "arrival-pu",
+    "coordinates": [59.9152614, 10.777315]
+  },
+  {
+    "type": "emergency-room",
+    "icon": "",
+    "localeKey": "emergency-room-storgata",
+    "coordinates": [59.9167631, 10.7589411]
+  },
+  {
+    "type": "emergency-room",
+    "icon": "",
+    "localeKey": "emergency-room-aker",
+    "coordinates": [59.93949, 10.79439]
   }
 ]
