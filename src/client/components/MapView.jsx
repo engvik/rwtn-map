@@ -1,7 +1,7 @@
 import async from 'async';
 import React from 'react';
 import { Map, Marker, Popup, TileLayer } from 'react-leaflet';
-import { IntlMixin } from 'react-intl';
+import { IntlMixin, FormattedHTMLMessage } from 'react-intl';
 const request = require('superagent');
 
 import Menu from './Menu.jsx';
@@ -130,7 +130,9 @@ const MapView = React.createClass({
                   position={marker.coordinates}
                 >
                   <Popup>
-                    <span>{this.getIntlMessage(marker.localeKey)}</span>
+                    <span>
+                      <FormattedHTMLMessage message={this.getIntlMessage(marker.localeKey)} />
+                    </span>
                   </Popup>
                 </Marker>
               );
