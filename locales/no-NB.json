@@ -1,0 +1,29 @@
+{
+  "home-title": "Velkommen til Oslo!",
+  "home-content-language-select ": "Se kart på: ",
+
+  "map-title": "Kart",
+  "map-filter-type": "Filtrer",
+
+  "about-title": "Om",
+  "about-content": "Inspirert av det fantastiske <a href='http://arriving-in-berlin.de/'>Arriving in Berlin</a>-kartet, ville <a href='http://rwtn.no/'>Refugees Welcome to Norway</a> lage et tilsvarende kart over Oslo.",
+  "about-contributing-code": "Og hvorfor ikke gjøre kildekoden tilgjengelig for alle, slik at andre kan lage kart for sitt eget sted? Prosjektet er tilgjengelig på <a href='http://github.com/engvik/rwtn-map'>GitHub</a>.",
+
+  "menu-languages": "Språk",
+  "menu-map": "Kart",
+  "menu-about": "Om",
+
+  "map-menu-search": "Søk",
+  "map-menu-filter-all": "Alle",
+  "map-menu-filter-transport": "Transport",
+  "map-menu-filter-arrival": "Ankomst",
+  "map-menu-filter-emergency-room": "Legevakt",
+
+  "transport-central-train-station": "Oslo Sentralstasjon<br />Hovedtogstasjon.",
+  "transport-central-bus-terminal": "Oslo bussterminal<br />Hovedbussterminal.",
+
+  "arrival-pu": "Politiets utlendingsenhet<br />Her må du registrere deg når du først ankommer Oslo.<br /><a href='https://www.politi.no/kontakt_oss/kontakt_politiets_utlendingsenhet/'>PUs nettisde</a>",
+
+  "emergency-room-storgata": "Legevakt i Oslo sentrum.<br />Døgnåpent.<br /><a href='https://www.oslo.kommune.no/dognapne-vakttjenester/legevakt/legevakt-storgata/'>Nettside</a>.",
+  "emergency-room-aker": "Legevakt.<br />Åpent 16:00-01:30 mandag til fredag. Helg: 10:00-01:30.<br /><a href='<a href='https://www.oslo.kommune.no/dognapne-vakttjenester/legevakt/legevakt-storgata/'>Nettside</a>."
+}
