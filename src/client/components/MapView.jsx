@@ -130,7 +130,7 @@ const MapView = React.createClass({
                   position={marker.coordinates}
                 >
                   <Popup>
-                    <span>{this.getIntlMessage('test')}</span>
+                    <span>{this.getIntlMessage(marker.localeKey)}</span>
                   </Popup>
                 </Marker>
               );
