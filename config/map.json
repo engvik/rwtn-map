@@ -61,5 +61,119 @@
     "icon": "",
     "localeKey": "police-stovner",
     "coordinates": [59.9614739, 10.9219232]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-bjerke",
+    "coordinates": [59.9426224, 10.8120589]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-bjornholt",
+    "coordinates": [59.83452, 10.83675]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-boler",
+    "coordinates": [59.8826286, 10.8443053]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-furuset",
+    "coordinates": [59.9410716, 10.8973799]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-gamle-oslo",
+    "coordinates": [59.9142497, 10.7757407]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-lokka",
+    "coordinates": [59.9207898, 10.7602218]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-holmlia",
+    "coordinates": [59.8350833, 10.7944882]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-main",
+    "coordinates": [59.91666, 10.74686]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-lamberseter",
+    "coordinates": [59.87420, 10.81185]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-majorstuen",
+    "coordinates": [59.9304699, 10.7159385]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-nordtvet",
+    "coordinates": [59.95125, 10.874039]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-nydalen",
+    "coordinates": [59.9505641, 10.762857]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-oppsal",
+    "coordinates": [59.8941734, 10.8420066]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-rommen",
+    "coordinates": [59.9673674, 10.9144175]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-romsas",
+    "coordinates": [59.96351, 10.89275]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-roa",
+    "coordinates": [59.9464401, 10.6435446]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-smestad",
+    "coordinates": [59.9325423, 10.6828005]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-stovner",
+    "coordinates": [59.9620878, 10.9260249]
+  },
+  {
+    "type": "library",
+    "icon": "",
+    "localeKey": "library-torshov",
+    "coordinates": [59.9384357, 10.7684779]
   }
 ]

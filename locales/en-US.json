@@ -19,6 +19,7 @@
   "map-menu-filter-arrival": "Arrival",
   "map-menu-filter-emergency-room": "Emergency room",
   "map-menu-filter-police": "Police",
+  "map-menu-filter-library": "Library",
 
   "transport-central-train-station": "<b>Oslo Sentralstasjon</b><p>Central train station.</p><p>Address: Jernbanetorget 1</p><p><a href='http://www.oslo-s.no/'>Website</a></p>",
   "transport-central-bus-terminal": "<b>Oslo bussterminal</b><p>Central bus station.</p><p>Address: Schweigaards gate 10</p><p><a href='http://www.ruter.no/'>Website</a></p>",
@@ -32,5 +33,25 @@
   "police-sentrum": "<b>Sentrum police station</b><p>Address: Hammersborggata 12</p><p><a href='https://www.politi.no/kontakt_oss/kontakt_ditt_politidistrikt/kontakt_oslo/KontaktInfo_255.xhtml'>Website</a></p>",
   "police-majorstua": "<b>Majorstua police station</b><p>Address: Sørkedalsveien 27</p><p><a href='https://www.politi.no/kontakt_oss/kontakt_ditt_politidistrikt/kontakt_oslo/KontaktInfo_254.xhtml'>Website</a></p>",
   "police-manglerud": "<b>Manglerud police station</b><p>Address: Plogveien 31</p><p><a href='https://www.politi.no/kontakt_oss/kontakt_ditt_politidistrikt/kontakt_oslo/KontaktInfo_252.xhtml'>Website</a></p>",
-  "police-stovner": "<b>Stovner police station</b><p>Address: Aasta Hansteensvei 10</p><p><a href='https://www.politi.no/kontakt_oss/kontakt_ditt_politidistrikt/kontakt_oslo/KontaktInfo_251.xhtml'>Website</a></p>"
+  "police-stovner": "<b>Stovner police station</b><p>Address: Aasta Hansteensvei 10</p><p><a href='https://www.politi.no/kontakt_oss/kontakt_ditt_politidistrikt/kontakt_oslo/KontaktInfo_251.xhtml'>Website</a></p>",
+
+  "library-bjerke": "<b>Deichmanske bibliotek - Bjerke</b><p>Holds a weekly language café where you can practice Norwegian together. See website for further information.</p><p>Address: Trondheimsveien 275</p><p><a href='https://www.deichman.no/filial/bjerke'>Website</a></p>",
+  "library-bjornholt": "<b>Deichmanske bibliotek - Bjørnholt</b><p>Address: Slimeveien 15-17</p><p><a href='https://www.deichman.no/filial/bjornholt'>Website</a></p>",
+  "library-boler": "<b>Deichmanske bibliotek - Bøler</b><p>Address: Bølerlia 3c</p><p><a href='https://www.deichman.no/filial/boler'>Website</a></p>",
+  "library-furuset": "<b>Deichmanske bibliotek - Furuset</b><p>Address: Trygve Liesplass 1</p><p><a href='https://www.deichman.no/filial/furuset'>Website</a></p>",
+  "library-gamle-oslo": "<b>Deichmanske bibliotek - Gamle Oslo</b><p>Holds a weekly language café where you can practice Norwegian together. Also holds children fairy tale events in Arabic/Norwegian and Somali/Norwegian. See website for further information.</p><p>Address: Hagegt. 28</p><p><a href='https://www.deichman.no/filial/gamle-oslo'>Website</a></p>",
+  "library-lokka": "<b>Deichmanske bibliotek - Grünerløkka</b><p>Holds a weekly language café where you can practice Norwegian together. See website for further information.</p><p>Address: Schous plass 10</p><p><a href='https://www.deichman.no/filial/grunerlokka'>Website</a></p>",
+  "library-holmlia": "<b>Deichmanske bibliotek - Holmlia</b><p>Holds a weekly language café where you can practice Norwegian together. See website for further information.</p><p>Address: Holmlia sentervei 16</p><p><a href='https://www.deichman.no/filial/holmlia'>Website</a></p>",
+  "library-main": "<b>Deichmanske bibliotek - Hovedbiblioteket</b><p>Main library in the city center.</p><p>Has books in many languages! Holds a weekly language café where you can practice Norwegian together. See website for further information.</p><p>Address: Holmlia sentervei 16</p><p><a href='https://www.deichman.no/filial/hovedbiblioteket'>Website</a></p><p><a href='http://dfb.deichman.no/'>The multilingual library</a></p>",
+  "library-lamberseter": "<b>Deichmanske bibliotek - Lamberseter</b><p>Holds a weekly language café where you can practice Norwegian together. See website for further information.</p><p>Address: Cecilie Thoresensvei 19</p><p><a href='https://www.deichman.no/filial/lambertseter'>Website</a></p>",
+  "library-majorstuen":  "<b>Deichmanske bibliotek - Majorstuen</b><p>Holds a weekly language café where you can practice Norwegian together. See website for further information.</p><p>Address: Harald Hårfagresgt. 2</p><p><a href='https://www.deichman.no/filial/majorstuen'>Website</a></p>",
+  "library-nordtvet": "<b>Deichmanske bibliotek - Nordtvet</b><p>Address: Nordtvetveien 28</p><p><a href='https://www.deichman.no/filial/nordtvet'>Website</a></p>",
+  "library-nydalen": "<b>Deichmanske bibliotek - Nydalen</b><p>Address: Nydalsveien 30 C</p><p><a href='https://www.deichman.no/filial/nydalen'>Website</a></p>",
+  "library-oppsal": "<b>Deichmanske bibliotek - Oppsal</b><p>Address: Vetlandsveien 99-101</p><p><a href='https://www.deichman.no/filial/oppsal'>Website</a></p>",
+  "library-rommen": "<b>Deichmanske bibliotek - Rommen</b><p>Address: Karen Platousvei 31</p><p><a href='https://www.deichman.no/filial/rommen'>Website</a></p>",
+  "library-romsas":  "<b>Deichmanske bibliotek - Romsås</b><p>Holds a weekly language café where you can practice Norwegian together. See website for further information.</p><p>Address: Romsås Senter 1</p><p><a href='https://www.deichman.no/filial/romsas'>Website</a></p>",
+  "library-roa": "<b>Deichmanske bibliotek - Røa</b><p>Address: Tore Hals Mejdells vei 8</p><p><a href='https://www.deichman.no/filial/roa'>Website</a></p>",
+  "library-smestad": "<b>Deichmanske bibliotek - Smestad</b><p>Address: Konventveien 27</p><p><a href='https://www.deichman.no/filial/smestad'>Website</a></p>",
+  "library-stovner": "<b>Deichmanske bibliotek - Stovner</b><p>Address: Stovner Senter 24 b</p><p><a href='https://www.deichman.no/filial/stovner'>Website</a></p>",
+  "library-torshov": "<b>Deichmanske bibliotek - Torshov</b><p>Address: Sandakerveien 59</p><p><a href='https://www.deichman.no/filial/torshov'>Website</a></p>"
 }
