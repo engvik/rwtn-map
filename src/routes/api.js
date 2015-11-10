@@ -16,6 +16,7 @@ router.get('/map/types', (req, res) => {
   _(mapData)
     .pluck('type')
     .compact()
+    .sort()
     .toArray((xs) => res.json(xs));
 });
 
