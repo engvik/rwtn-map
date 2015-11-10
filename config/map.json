@@ -186,5 +186,31 @@
     "icon": "",
     "localeKey": "legal-jussbuss",
     "coordinates": [59.9145358, 10.726479]
+  },
+  {
+    "type": "legal",
+    "icon": "",
+    "localeKey": "legal-mira",
+    "coordinates": [59.9161738, 10.7574911]
+  },
+  {
+    "type": "legal",
+    "icon": "",
+    "localeKey": "legal-jurk",
+    "coordinates": [59.91459, 10.72659]
+  },
+
+
+  {
+    "type": "health",
+    "icon": "",
+    "localeKey": "health-paperless",
+    "coordinates": [59.91151, 10.75066]
+  },
+  {
+    "type": "health",
+    "icon": "",
+    "localeKey": "health-primar",
+    "coordinates": [59.9132579, 10.7619693]
   }
 ]

@@ -21,6 +21,7 @@
   "map-menu-filter-police": "Politi",
   "map-menu-filter-library": "Bibliotek",
   "map-menu-filter-legal": "Juridisk hjelp",
+  "map-menu-filter-health": "Helse",
 
   "transport-central-train-station": "<b>Oslo Sentralstasjon</b><p>Hovedtogstasjon.</p><p>Adresse: Jernbanetorget 1</p><p><a href='http://www.oslo-s.no/'>Webside</a></p>",
   "transport-central-bus-terminal": "<b>Oslo bussterminal</b><p>Hovedbusstasjon</p><p>Adresse: Schweigaards gate 10</p><p><a href='http://www.ruter.no/'>Webside</a></p>",
@@ -56,5 +57,10 @@
   "library-stovner": "<b>Deichmanske bibliotek - Stovner</b><p>Adresse: Stovner Senter 24 b</p><p><a href='https://www.deichman.no/filial/stovner'>Webside</a></p>",
   "library-torshov": "<b>Deichmanske bibliotek - Torshov</b><p>Adresse: Sandakerveien 59</p><p><a href='https://www.deichman.no/filial/torshov'>Webside</a></p>",
 
-  "legal-jussbuss": "<b>Jussbuss</b><p>Gratis rettshjelp fra jusstudenter.</p><p>Nye saker må tas opp per telefon eller ved personlig oppmøte under følgende tidspunkt: <ul><li>Mandag: 10:00 - 15:00</li><li>Torsdag: 17:00 - 20:00</li></ul></p><p>Telefon: 22 84 29 00</p><p>Adresse: Arbinsgate 7</p><p><a href='http://www.jussbuss.no/'>Webside</a></p>"
+  "legal-jussbuss": "<b>Jussbuss</b><p>Gratis rettshjelp fra jusstudenter.</p><p>Nye saker må tas opp per telefon eller ved personlig oppmøte under følgende tidspunkt: <ul><li>Mandag: 10:00 - 15:00</li><li>Torsdag: 17:00 - 20:00</li></ul></p><p>Telefon: (+47) 22 84 29 00</p><p>Adresse: Arbinsgate 7</p><p><a href='http://www.jussbuss.no/'>Webside</a></p>",
+  "legal-mira": "<b>MIRA-senteret</b><p>Ressurssenter for kvinner med minoritetsbakgrunn. Tilbyr gratis juridisk hjelp.</p><p>Adresse: Storgata 38</p><p><a href='http://mirasenteret.no/'>Webside</a></p>",
+  "legal-jurk": "<b>JURK</b><p>Tilbyr gratis rettshjelp til alle kvinner. <p>Nye saker må tas opp per telefon eller ved personlig oppmøte under følgende tidspunkt: <ul><li>Mandag: 10:00 - 15:00</li><li>Torsdag: 17:00 - 20:00</li></ul></p></p><p>Telefon: (+47) 22 84 29 50</p><p>Adresse: Arbinsgate 7</p><p><a href='http://jurk.no/'>Webside</a></p>",
+
+  "health-paperless": "<b>Helsesenter for papirløse immigranter</b><p><b>NB:</b> Kartmarkøren viser ikke hvor på kartet senteret ligger. Du må ta kontakt med senteret for veibeskrivelse.</p><p>Kirkens bymisjon og Røde Kors driver et helsesenter for papirløse immigranter. Her kan du få tilgang på sykepleier, lege, psykolog og fysioterapeut med mer.</p><p>Tilbudet er gratis, men du må ta kontakt for veibeskrivelse.</p><ul><li>Tirsdag: 16:00 - 20:00</li><li>Torsdag: 11:00 - 15:00</li></ul></p><p>Telefon: (+47) 48 89 05 60</p><p><a href='http://www.bymisjon.no/Virksomheter/Helsesenteret-for-papirlose-migranter/English/'>Webside</a></p>",
+  "health-primar": "<b>Primærmedisinsk Verksted</b><p>Kirkens bymisjon holder et aktivitetstilbud med fokus på forebyggende helsearbeid i en flerkulturell sammenheng. Aktiviteter inkluderer blant annet matlaging, fysiske aktiviteter og håndarbeid.</p><p>Telefon: (+47) 23 06 03 80</p><p>Adresse: Motzfeldts gate 1</p><p><a href='http://www.bymisjon.no/Virksomheter/Primarmedisinsk-Verksted/'>Webside</a></p>"
 }
