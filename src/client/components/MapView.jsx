@@ -123,10 +123,10 @@ const MapView = React.createClass({
 
               return false;
             })
-            .map((marker) => {
+            .map((marker, index) => {
               return (
                 <Marker
-                  key={marker.coordinates.join(',')}
+                  key={`marker-${index}`}
                   position={marker.coordinates}
                 >
                   <Popup>
@@ -158,9 +158,9 @@ const MapView = React.createClass({
   },
 
   renderMarkerTypes() {
-    return this.state.mapMarkerTypes.map((type) => {
+    return this.state.mapMarkerTypes.map((type, index) => {
       return (
-        <li key={type} onClick={this.mapMarkerTypeHandler.bind(this, type)}>
+        <li key={`type-${index}`} onClick={this.mapMarkerTypeHandler.bind(this, type)}>
           {this.getIntlMessage('map-menu-filter-' + type)}
         </li>
       );
