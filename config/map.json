@@ -14,12 +14,14 @@
     "localeKey": "transport-central-bus-terminal",
     "coordinates": [59.91161, 10.75932]
   },
+  
   {
     "type": "arrival",
     "icon": "",
     "localeKey": "arrival-pu",
     "coordinates": [59.9152614, 10.777315]
   },
+
   {
     "type": "emergency-room",
     "icon": "",
@@ -32,6 +34,7 @@
     "localeKey": "emergency-room-aker",
     "coordinates": [59.93949, 10.79439]
   },
+
   {
     "type": "police",
     "icon": "",
@@ -62,6 +65,7 @@
     "localeKey": "police-stovner",
     "coordinates": [59.9614739, 10.9219232]
   },
+
   {
     "type": "library",
     "icon": "",
@@ -175,5 +179,12 @@
     "icon": "",
     "localeKey": "library-torshov",
     "coordinates": [59.9384357, 10.7684779]
+  },
+
+  {
+    "type": "legal",
+    "icon": "",
+    "localeKey": "legal-jussbuss",
+    "coordinates": [59.9145358, 10.726479]
   }
 ]
