@@ -16,6 +16,7 @@ And why not just open source it, so others can make use of it as well?
     * [locale/IETF-code.json](https://github.com/engvik/rwtn-map#ietf-codejson)
         * [Example](https://github.com/engvik/rwtn-map#example-2)
         * [Creating a translation for a marker type](https://github.com/engvik/rwtn-map#creating-a-translation-for-a-marker-type)
+    * [Full example](https://github.com/engvik/rwtn-map#full-example)
 * [Environment variables](https://github.com/engvik/rwtn-map#environment-variables)
 
 ## Install, build and run
@@ -145,6 +146,8 @@ You should create a translation like this:
   "doctor": "Lege"
 }
 ```
+### Full example
+If you want to see a bigger example with all of the configuration done, have a look at the [map/oslo](https://github.com/engvik/rwtn-map/tree/map/oslo)-branch to see the for Oslo.
 
 ## Environment variables
 * `PORT`
