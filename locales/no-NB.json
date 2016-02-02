@@ -7,7 +7,7 @@
 
   "about-title": "Om",
   "about-content": "Inspirert av det fantastiske <a href='http://arriving-in-berlin.de/'>Arriving in Berlin</a>-kartet, ville <a href='http://rwtn.no/'>Refugees Welcome to Norway</a> lage et tilsvarende kart over Oslo.",
-  "about-contributing-code": "<h3>Bidra</h3><h4>Innhold og oversettelser</h4><p>Om du har forslag til innhold på kartet eller kan hjelpe til meg oversettelser, ta kontakt med oss på <a href='mailto:map@rwtn.no'>map@rwtn.no</a>.</p><h4>Kode</h4><p>Dersom du vil bidra med kode er prosjektet tilgjengelig på <a href='https://github.com/engvik/rwtn-map'>GitHub</a>.</p>",
+  "about-contributing-code": "<h3>Bidra</h3><p>Vi setter stor pris på hjelp med videreutviklingen av kartet! Les videre for å vite ut hvordan du kan bidra.</p><h4>Innhold og oversettelser</h4><p>Om du har forslag til innhold på kartet eller kan hjelpe til med oversettelser, ta kontakt med oss på <a href='mailto:map@rwtn.no'>map@rwtn.no</a>.</p><h4>Kode</h4><p>Dersom du vil bidra med kode er prosjektet tilgjengelig på <a href='https://github.com/engvik/rwtn-map'>GitHub</a>.</p>",
 
   "menu-languages": "Språk",
   "menu-map": "Kart",
