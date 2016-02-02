@@ -14,7 +14,7 @@
     "localeKey": "transport-central-bus-terminal",
     "coordinates": [59.91161, 10.75932]
   },
-  
+
   {
     "type": "arrival",
     "icon": "",
@@ -212,5 +212,12 @@
     "icon": "",
     "localeKey": "health-primar",
     "coordinates": [59.9132579, 10.7619693]
+  },
+
+  {
+    "type": "counseling",
+    "icon": "",
+    "localeKey": "counseling-seif",
+    "coordinates": [59.9160253, 10.740703]
   }
 ]
