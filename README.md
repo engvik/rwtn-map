@@ -42,7 +42,7 @@ This is the file for setting up the languages you support. Adding a language her
     "name": "English"
   },
   {
-    "code": "no-NB",
+    "code": "nb-NO",
     "name": "Norsk bokmål"
   }
 ]
@@ -107,7 +107,7 @@ This is where we store the translations files. The project comes with some prede
   }
 ]
 
-// no-NB.json
+// nb-NO.json
 [
   {
     "map-title": "Kart",
@@ -141,7 +141,7 @@ You should create a translation like this:
   "doctor": "Doctor"
 }
 
-// no-NB.json
+// nb-NO.json
 {
   "doctor": "Lege"
 }
